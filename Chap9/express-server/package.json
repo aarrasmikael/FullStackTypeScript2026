@@ -1,0 +1,15 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Chap9: Express ja Web API",
+  "main": "expressapp.js",
+  "type": "module",
+  "scripts": {
+    "start": "node expressapp.js",
+    "middleware": "node middleware-demo.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
